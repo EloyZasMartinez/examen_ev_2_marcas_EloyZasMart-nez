@@ -1,4 +1,4 @@
-*{background-color: grey;
+*{background-color: white;
     
 }
 
@@ -6,12 +6,12 @@
 .primeraletra{
     display: inline;
     color: #D19C97;
-   font-size: 30px;
+   font-size: 50px;
 }
 
 .nombre{
     display: inline;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 .total{
@@ -19,4 +19,26 @@
     width: 100%;
     height: 70rem;
     ;
+}
+.barrabusqueda{
+    margin-top: 30px;
+    width: 70%;
+    height: 40px;
+}
+.boton{
+    height: 40px;
+    width: 40px;
+    color: #D19C97;
+}
+.form{
+    opacity: .5;
+}
+.aside{
+    width: 25%;
+    height: 100%;
+}
+.color-acordeon{
+background-color: #D19C97;
+width: 90%;
+height: 75px;
 }
